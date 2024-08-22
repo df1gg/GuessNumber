@@ -1,0 +1,5 @@
+build/
+.cmake/
+CMakeFiles/
+cmake_install.cmake
+Makefile
